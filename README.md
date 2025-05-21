@@ -8,8 +8,11 @@ Incêndios causam anualmente no Brasil:
 - 300+ mortes urbanas (Datasus)
 - Grande parte dos incêndios sao não são detectados previamente, gerando grande prejuízo.
 
-**Solução:**  
-Detecção precoce com tecnologia 10x mais barata que soluções profissionais.
+## 📌 Sobre o Projeto
+Solução **acessível e autônoma** para detecção precoce de incêndios em:
+- 🌳 Áreas florestais
+- 🏡 Comunidades rurais
+- 🏫 Escolas públicas
 
 
 ### 🌟 **Como Funciona Nossa Tecnologia**  
