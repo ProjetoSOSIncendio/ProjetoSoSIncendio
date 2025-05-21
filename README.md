@@ -6,7 +6,7 @@ Incêndios causam anualmente no Brasil:
 - 15% das perdas florestais (INPE)
 - R$ 2 bi em prejuízos rurais (Embrapa)
 - 300+ mortes urbanas (Datasus)
-- Grande parte dos incêndios sao nao são detectados previamente, gerando grande prejuízo.
+- Grande parte dos incêndios sao não são detectados previamente, gerando grande prejuízo.
 
 **Solução:**  
 Detecção precoce com tecnologia 10x mais barata que soluções profissionais.
